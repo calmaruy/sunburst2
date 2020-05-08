@@ -1,0 +1,73 @@
+{
+    "name": "TOPICS", "children": [
+        {
+        "name": "Beef",
+        "children": [{"name": "Steak", "size": 2, "text": "A story", "sentiment": 0.8, "source": "dictionary", 
+            "children": [{"name": "Salt + Pepper", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Butter-basted", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Teriyaki", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Grilled", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Chicken-Fried", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"}
+
+                    ]
+        },
+            {"name": "Stew Cut", "size": 2, "text": "A note", "sentiment": 0.3, "source": "dictionary",
+                "children": [{"name": "Beef Stew", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                            {"name": "Kabobs", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"}
+                        ]
+            }
+        ]
+    }, 
+    {
+        "name": "Pork",
+        "children": [{"name": "Belly", "size": 5, "text": "A vignette", "sentiment": 0.5, "source": "newspaper",
+            "children": [{"name": "Crispy", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Slow Roasted", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Kakuni(Jp)", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"}]
+        },
+            {"name": "Chops", "size": 3, "text": "A tall-tale", "sentiment": 0.2, "source": "friend",
+                "children": [{"name": "Tonkatsu(Jp)", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Honey Garlic", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Oven Baked", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"}]
+
+            },
+
+            {"name": "Shoulder", "size": 3, "text": "A tall-tale", "sentiment": 0.2, "source": "friend",
+                "children": [{"name": "Slow Roasted", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "BBQ", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Smoked", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"}]
+            }
+
+
+        ]
+    }, {
+        "name": "Chicken",
+        "children": 
+        [{"name": "Whole", "size": 4, "text": "A narrative", "sentiment": 0.2, "source": "newspaper",
+            "children": [{"name": "Roasted", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Poached", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Sous Vide", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"}]
+        },
+        {"name": "Drumstick", "size": 4, "text": "A chronology", "sentiment": 0.3, "source": "email",
+            "children": [{"name": "Baked", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Spiced", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "BBQ", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"}]
+        },
+        {"name": "Breast", "size": 4, "text": "A chronology", "sentiment": 0.3, "source": "email",
+            "children": [{"name": "Baked", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Pan Roasted", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Creamy Garlic", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"}]
+        },
+        {"name": "Wing", "size": 4, "text": "A chronology", "sentiment": 0.3, "source": "email",
+           "children": [{"name": "Buffalo", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Teriyaki", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Baked", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"},
+                        {"name": "Hot", "size" : 1, "text": "A story", "sentiment": 0.3, "source": "friend"}]
+
+        }
+
+
+        ]
+    }]
+
+}
