@@ -1,6 +1,3 @@
-//Json file that creates a hierarchy of food by creating parent nodes (Topics) with children nodes that have children nodes
-//Meat -> Cut of Meat -> recipe
-//inner layer -> middle layer-> outer layer
 
 {
     "name": "TOPICS", "children": [
