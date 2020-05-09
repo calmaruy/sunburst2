@@ -1,3 +1,6 @@
+//Video player code based off Jan Stelovsky
+//URL: http://www2.hawaii.edu/~janst/2020/video/js/video.js
+
 (function() {
   // When page is ready setup video format checking and video playing
   $(function() {
