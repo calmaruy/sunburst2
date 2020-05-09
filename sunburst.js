@@ -98,6 +98,8 @@
 
 
     };
+    //The following is the video player developed by Jan Stelovsky
+    //URL: 
     // get page elements
     dom = {
       sources: $('source')
