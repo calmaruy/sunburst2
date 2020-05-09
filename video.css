@@ -19,8 +19,5 @@ input {
   height: 360px;
 }
 #links {
-  margin: 10px 0 10px 0;
-}
-p{
-  font-family: 'Helvetica';
+  margin: 30px 0 30px 0;
 }
